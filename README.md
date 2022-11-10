@@ -19,8 +19,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - React - JS
 - HTML
 - CSS
-- 
+
 
 Credits :
 https://github.com/facebookincubator/create-react-app
+
 https://github.com/karolbrennan/letsplaybingo
