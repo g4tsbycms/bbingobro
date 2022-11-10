@@ -19,3 +19,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - React - JS
 - HTML
 - CSS
+Credits : https://github.com/karolbrennan/letsplaybingo
